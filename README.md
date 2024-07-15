@@ -16,6 +16,3 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src=https://www.linkedin.com/in/allan-sexius-2318a6317/ />][linkedin]
 
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://www.linkedin.com/in/allan-sexius-2318a6317/
