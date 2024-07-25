@@ -12,8 +12,8 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/allanks96/osticket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/allanks96/osTicket-Post-Install-Configuration/blob/main/README.md)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/allanks96/osTicket---Ticket-Lifecycle-Intake-Through-Resolution/blob/main/README.md)
+  - [osTicket: Post-Installation Configuration](https://github.com/allanks96/osTicket-Post-Install-Configuration/tree/main)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/allanks96/osTicket---Ticket-Lifecycle-Intake-Through-Resolution/tree/main)
 
 
 <h2>🤳Connect with me:</h2>
