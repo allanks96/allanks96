@@ -9,8 +9,7 @@
  
 - <b>Active Directory</b>
   - [Active Directory: Download and Setup](https://github.com/allanks96/Active-Directory)
-  - [Active Directory: Assigned Users To Security Groups](https://github.com/joshmadakorcc/post-install-config)
-  - [Active Directory: Unlocked and Password Reset User Accounts](https://github.com/joshmadakorcc/ticket-lifecycle)
+
 
 <h2>🤳Connect with me:</h2>
 
