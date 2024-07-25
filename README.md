@@ -8,7 +8,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Active Directory download and setup](https://github.com/allanks96/Active-Directory-download-and-setup)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
