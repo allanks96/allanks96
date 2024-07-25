@@ -4,7 +4,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configured Virtual Machines](https://github.com/joshmadakorcc/configure-ad)
+  - [Azure Virtual Machines Configuration](https://github.com/allanks96/Azure-VM-Configuration)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
 - <b>Active Directory</b>
