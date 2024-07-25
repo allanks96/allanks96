@@ -5,7 +5,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure Virtual Machines Configuration](https://github.com/allanks96/Azure-VM-Configuration)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/allanks96/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines/blob/main/README.md)
  
 - <b>Active Directory</b>
   - [Active Directory download and setup](https://github.com/allanks96/Active-Directory-download-and-setup)
